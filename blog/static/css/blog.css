@@ -53,3 +53,11 @@ h1, h2, h3, h4 {
 .content {
     padding-left: 15px;
 }
+
+.title-line {
+    display: inline;
+}
+
+.edit-button {
+    float: right;
+}
